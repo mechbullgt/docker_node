@@ -1,0 +1,8 @@
+https://docker-curriculum.com/
+
+https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+https://docs.docker.com/docker-for-mac/#daemon
+https://docs.docker.com/docker-for-mac/docker-toolbox/#setting-up-to-run-docker-for-mac
+
+Issues:
+https://github.com/prakhar1989/docker-curriculum/issues/27
